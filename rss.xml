@@ -1,15 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[coolambient]]></title>
-        <description><![CDATA[coolambient]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[dark ambient soundscapes for dark ambient moments]]></title>
+        <description><![CDATA[dark ambient soundscapes for dark ambient moments]]></description>
+        <link>https://thegrid.ai/coolambient/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 04 Feb 2016 16:52:16 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 29 Mar 2016 22:06:53 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/coolambient/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e772f244-ea55-487a-88a4-549290be7e5b.jpg">]]></description>
+            <link>https://thegrid.ai/coolambient/recording-at-night-in-an-empty-downtown-parking-garage/index.html</link>
+            <guid isPermaLink="false">ea8740e2-a25e-4f52-83f5-1d07dcd1b54c</guid>
+            <pubDate>Tue, 29 Mar 2016 22:05:05 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/3faa243f-2a29-4ec5-bf9f-5bfce858df2e.jpg">]]></description>
-            <link>undefinedc2a3fd69-12c2-47eb-b47c-9cc06a75cd81/index.html</link>
+            <link>https://thegrid.ai/coolambient/c2a3fd69-12c2-47eb-b47c-9cc06a75cd81/index.html</link>
             <guid isPermaLink="false">c2a3fd69-12c2-47eb-b47c-9cc06a75cd81</guid>
             <pubDate>Thu, 04 Feb 2016 16:52:12 GMT</pubDate>
         </item>
